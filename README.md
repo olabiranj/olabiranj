@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about the `MEARN` stack.
-- 📫 How to reach me: <a href="https://twitter.com/Olabiranjoshua"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/joshua-olabiran-6625a3177/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.joshuaolabiran.com/"><img src="https://img.shields.io/badge/google-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+- 📫 How to reach me: <a href="https://twitter.com/Olabiranjoshua"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/joshua-olabiran-6625a3177/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.joshuaolabiran.com/"><img src="https://img.shields.io/badge/google-%23E4405F.svg?&style=for-the-badge&logo=google&logoColor=white" height=25></a> 
 - ⚡ Fun fact: I love driving 🚖
 
 
