@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning about `Linux Server`
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on <img src="https://img.shields.io/badge/Web Developement-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about the `MEARN` stack.
 - 📫 How to reach me: <a href="https://twitter.com/Olabiranjoshua"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/joshua-olabiran-6625a3177/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.joshuaolabiran.com/"><img src="https://img.shields.io/badge/google-%23E4405F.svg?&style=for-the-badge&logo=google&logoColor=white" height=25></a> 
@@ -17,19 +17,9 @@ Here are some ideas to get you started:
 
 
 
-<p align=center>
-  <a href="https://github.com/Terabyte17">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+
 <p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+
 </p>
 <hr>
 <p align="center">
