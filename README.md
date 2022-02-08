@@ -6,7 +6,6 @@ Skilled in `React`, `Redux`, `Vue`, `Typescript`, `SCSS`, `Git`, `Node.js`, `Nex
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning about `Linux Server`
 - 👯 I’m looking to collaborate on <img src="https://img.shields.io/badge/Web Developement-brown"> <img src="https://img.shields.io/badge/Fullstack Development-green"> <img src="https://img.shields.io/badge/Frontend Development-red"> <img src="https://img.shields.io/badge/Backend Development-purple"> 
 - 💬 Ask me about the `MEARN` stack.
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-## Tools
+### Tools
 <p align="center">
 <img src="https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/ts-node%20-%F7B93E.svg?&style=for-the-badge&logo=Node&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Next.Js%20-%23E34F26.svg?&style=for-the-badge&logo=Next.Js&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier%20-%F7B93E.svg?&style=for-the-badge&logo=Prettier&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
