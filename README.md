@@ -6,7 +6,7 @@ Skilled in `React`, `Redux`, `Vue`, `Typescript`, `SCSS`, `Git`, `Node.js`, `Nex
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning about `Linux Server`
+- 🌱 I’m currently learning about `Linux Servers`
 - 👯 I’m looking to collaborate on <img src="https://img.shields.io/badge/Web Developement-brown"> <img src="https://img.shields.io/badge/Fullstack Development-green"> <img src="https://img.shields.io/badge/Frontend Development-red"> <img src="https://img.shields.io/badge/Backend Development-purple"> 
 - 💬 Ask me about the `MERN` stack.
 - 📫 How to reach me: <a href="https://twitter.com/Olabiranjoshua"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/joshua-olabiran-6625a3177/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.joshuaolabiran.com/"><img src="https://img.shields.io/badge/google-%23E4405F.svg?&style=for-the-badge&logo=google&logoColor=white" height=25></a> 
